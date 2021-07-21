@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ropepe
 - 👀 I’m interested in web developing and programming.
 - 🌱 I’m currently learning HTML, css, JavaScript, React
-- 💞️ I’m looking to collaborate on my first projects
+- 💞️ I’m looking to collaborate on my first project
 - 📫 you can reach me on my mail: pericavrhovac@gmail.com
 
 <!---
